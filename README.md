@@ -1,2 +1,2 @@
 # coccoc
-Simple MVC Framework. Blog Example
+Simple MVC Framework example.
