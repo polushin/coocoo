@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.top40{margin-top: 40px;}
+.bottom20{margin-bottom: 20px;}
+
+.field-error{border: 1px solid brown;}
+.field-error-description{color: brown;}
+
+.form-error-message{color: brown; font-size: 1.2em;}
